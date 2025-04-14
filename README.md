@@ -2,7 +2,8 @@
 
 ---
 
-Canvas Editor es una aplicación para la edición de imágenes basada en [Fabric.js](http://fabricjs.com/). Este proyecto fue desarrollado por **Diego Rodriguez**.
+Canvas Editor es una aplicación para la edición de imágenes basada en [Fabric.js](http://fabricjs.com/). 
+Proyecto desarrollado por [Diego Rodriguez](https://github.com/haonter).
 
 ---
 
@@ -13,18 +14,18 @@ Canvas Editor es una aplicación para la edición de imágenes basada en [Fabric
 - **Capas**: Organiza los elementos en diferentes niveles, crea grupos y organiza el orden de apilamiento.
 - **Texto**: Añade texto editable al lienzo.
 - **Exportación**: Guarda el resultado en formatos como PNG o JPEG.
+- **Interfaz de usuario intuitiva**: Diseño amigable y fácil de usar.
 
 ---
 
 ## Herramientas adicionales (Próximamente)
-- **Pincel**: Herramienta para dibujar a mano alzada (Próximamente).
-- **Borrador**: Elimina partes del lienzo o de objetos seleccionados (Próximamente).
-- **Filtros**: Aplica filtros a las imágenes, como escala de grises (Próximamente).
-- **Deshacer/Rehacer**: Mantiene un historial de cambios para revertir acciones (Próximamente).
-- **Guías**: Añade guías para alinear objetos en el lienzo (Próximamente).
-- **Zoom**: Acerca o aleja el lienzo para una mejor visualización (Próximamente).
-- **Atajos de teclado**: Usa combinaciones de teclas para acceder rápidamente a funciones (Próximamente).
-- **Interfaz de usuario intuitiva**: Diseño amigable y fácil de usar.
+- **Pincel**: Herramienta para dibujar a mano alzada.
+- **Borrador**: Elimina partes del lienzo o de objetos seleccionados.
+- **Filtros**: Aplica filtros a las imágenes, como escala de grises.
+- **Deshacer/Rehacer**: Mantiene un historial de cambios para revertir acciones.
+- **Guías**: Añade guías para alinear objetos en el lienzo.
+- **Zoom**: Acerca o aleja el lienzo para una mejor visualización.
+- **Atajos de teclado**: Usa combinaciones de teclas para acceder rápidamente a funciones.
 
 ---
 
@@ -61,9 +62,10 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema.
 ---
 
 ## Tecnologías utilizadas
-- HTML5
-- Tailwindcss
-- React
+- [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
+- [Tailwindcss](https://tailwindcss.com/)
+- [React](https://reactjs.org/)
 - [Fabric.js](http://fabricjs.com/)
 
 ---
