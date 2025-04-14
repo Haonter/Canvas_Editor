@@ -39,16 +39,20 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema.
     ```bash
     git clone https://github.com/haonter/Canvas_Editor.git
     ```
-2. Navega al directorio del proyecto:
+2. Instala las dependencias:
+    ```bash
+    npm install
+    ```
+3. Navega al directorio del proyecto:
     ```bash
     cd Canvas_Editor
     ```
-3. Inicia el servidor de desarrollo:
+4. Inicia el servidor de desarrollo:
     ```bash
     npm run dev
     ```
-4. Abre tu navegador y visita `http://localhost:5173/` para ver la aplicación en acción.
-5. Para compilar el proyecto para producción, ejecuta:
+5. Abre tu navegador y visita `http://localhost:5173/` para ver la aplicación en acción.
+6. Para compilar el proyecto para producción, ejecuta:
     ```bash
     npm run build
     ```
